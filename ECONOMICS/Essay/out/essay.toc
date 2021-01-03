@@ -1,0 +1,8 @@
+\babel@toc {russian}{}
+\contentsline {section}{Введение}{3}{}%
+\contentsline {section}{\numberline {1}Появление термина}{4}{}%
+\contentsline {section}{\numberline {2}Для кого?}{4}{}%
+\contentsline {section}{\numberline {3}Есть ли выгода?}{6}{}%
+\contentsline {section}{\numberline {4}Главное НО}{7}{}%
+\contentsline {section}{Заключение}{9}{}%
+\contentsline {section}{Список литературы}{10}{}%
